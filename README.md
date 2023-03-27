@@ -1,4 +1,4 @@
-# :heavy_dollar_sign:   # Cotizador de Préstamos
+# :heavy_dollar_sign:    Cotizador de Préstamos
 
 ![vista](vista-vue.png)
 
