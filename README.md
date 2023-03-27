@@ -1,5 +1,7 @@
 # Cotizador de Préstamos
 
+![vista](vista-vue.png)
+
 ## Vue 3 + Vite, JavaScript, Tailwind
 
 ## `Descripción`
@@ -12,3 +14,5 @@
 
 ![logo](vue.svg)
 ![logo](vite.svg)
+![logo](icons8-tailwind-css.svg)
+![logo](javascript.svg)
